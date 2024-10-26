@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## I'm a Data Science And Analytics Student at CBU👩‍💻!
+- 👋 Hi, I am Banu Gürbüz.
+- 👨‍🎓 I am currently a Data Science and Analytics student at CBU.
+- 💡 I am working on Python, C++ and R.
+- 🥅 2024 Goals: To further develop my coding skills.
+- ⚡ Fun fact: I love to write ✍️ and watch movies 🎬.
+ <!--- 👯 I’m looking to collaborate with other Data Science And Analytics specialists. -->
 <!--
 **banugurbuz/banugurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
