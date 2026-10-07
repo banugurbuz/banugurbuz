@@ -1,21 +1,18 @@
-## I'm a Data Science And Analytics Student at CBU👩‍💻!
-- 👋 Hi, I am Banu Gürbüz.
-- 👨‍🎓 I am currently a Data Science and Analytics student at CBU.
-- 💡 I am working on Python, C++ and R.
-- 🥅 2024 Goals: To further develop my coding skills.
-- ⚡ Fun fact: I love to write ✍️ and watch movies 🎬.
- <!--- 👯 I’m looking to collaborate with other Data Science And Analytics specialists. -->
-<!--
-**banugurbuz/banugurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Banu Gürbüz 👩‍💻
 
-Here are some ideas to get you started:
+🎓 Data Science & Analytics student at Manisa Celal Bayar University  
+💻 Double majoring in Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in **Data Science, Machine Learning, Artificial Intelligence
+and Data Analytics**.
+
+I enjoy working with data, building projects and continuously improving
+my technical skills.
+
+### 🛠️ Tech Stack
+
+`Python` `SQL` `Git` `Linux`
+
+### ✨ Beyond Tech
+
+I enjoy writing ✍️ and watching movies 🎬.
